@@ -1,0 +1,7 @@
+* C:\2_WorkDir\LT_SPICE\GitRepository\LTspice\Self_built\LTspice\Wurth_Elektronik_Power_Magnetics_rev19b\lib\sym\Wurth_Elektronik\Power_Magnetics\WE-FB\Draft1.asc
+I1 N001 0 AC 1
+XU1 N001 0 850617021001_5F
+.ac dec 50 1 1g
+.lib WCAP-STSC.lib
+.backanno
+.end
