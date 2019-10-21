@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WUIUKXIC
 
 [Document5]
-DocumentPath=Input - 3v3 Power Supply.SchDoc
+DocumentPath=Low Voltage Power Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
