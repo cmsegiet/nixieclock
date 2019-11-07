@@ -42,3 +42,4 @@ Finished PCB layout of the control board and figured out how to create a Multi-B
 <img src="/Pictures/ControlBoardLayout.PNG" width="50%" height="50%">
 
 <img src="/Pictures/3D-PCB.PNG" width="50%" height="50%">
+No ground or power planes added yet, but looking good so far!
