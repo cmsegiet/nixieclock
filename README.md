@@ -39,6 +39,6 @@ Finshed most of the schematics, just refining and adding additional features
 
 Finished PCB layout of the control board and figured out how to create a Multi-Board project within Altium Designer. 
 
-<img src="/Pictures/ControlBoardLayout.png" width="50%" height="50%">
+<img src="/Pictures/ControlBoardLayout.PNG" width="50%" height="50%">
 
-<img src="/Pictures/3D-PCB.png" width="50%" height="50%">
+<img src="/Pictures/3D-PCB.PNG" width="50%" height="50%">
