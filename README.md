@@ -31,6 +31,12 @@ Just a picture of one of the nixie tubes while testing out the power supply sect
 
 <img src="/Pictures/Initial_Testing01.jpg" width="50%" height="50%">
 
+### 2019-08-18
+
+Purchased a power supply module designed by Paul Andrews on Hackaday to learn more about designing and understanding switching power supply design. Ultimately, I decided to implement most of Paul's design with minor changes such as a different switching FET due to availability of parts. I'll have to monitor the temperature of the new FET although the FET I chose has similar paramters such as Rds(on), Coss, Vds max, gate drive voltage, etc. 
+
+Also spent alot of time in this month learning more about Nixie Tubes and how they work and how they are driven. I learned that they could be driven by a "lower" voltage shift register if the digits that aren't being used at the time are clamped to a common 50V zener on the driver. With this configuration, a dedicated HV driver chip or discrete HV transistors aren't needed. Since the maintainence voltage to keep a Nixie lit after ignition is around 120V, we'll have to lower the supply voltage to around 160V. This will prevent other numbers that aren't being selected from lighting up partially since when they are clamped by a 50V zener, they'll be sitting at around 110V, which is not enough to maintain ignition in a Nixie. By the way 160V is enough to ignite the Nixie's as well, although a common figure tossed around is 170V to 180V.
+
 ### 2019-10-12
 
 Finshed most of the schematics, just refining and adding additional features
