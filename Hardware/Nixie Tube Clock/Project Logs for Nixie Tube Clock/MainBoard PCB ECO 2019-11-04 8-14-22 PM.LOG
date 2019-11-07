@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J4 Old Footprint=61301021121 New Footprint=10pin Header TH
+Change Component Comment : Designator=J4 Old Comment=61301021121 New Comment=10pin dual row 2.54" Shrouded
+Change component parameters: Designator = "J4"; Footprint = "10pin Header TH"; UniqueID = "\MXCKLQHW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "ED1543-ND"; VariantName = "[No Variations]"

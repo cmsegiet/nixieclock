@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=NixieTubeClockAssembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Nixie Tube Clock\Nixie Tube Clock.PrjPcb
+Record=SubProject|SourceDocument=NixieTubeClockAssembly.MbsDoc|ProjectPath=..\Nixie Tube Clock\Nixie Tube Clock.PrjPcb
+Record=DiagramHierarchy|SourceDocument=NixieTubeClockAssembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Nixie Tube Driver\NixieDriver.PrjPcb
+Record=SubProject|SourceDocument=NixieTubeClockAssembly.MbsDoc|ProjectPath=..\Nixie Tube Driver\NixieDriver.PrjPcb

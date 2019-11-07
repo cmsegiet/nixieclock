@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1608X90X35LL10T25 New Footprint=CAPC1608X06L
+Change Component Comment : Designator=C1 Old Comment=EMK107ABJ475KA-T New Comment=4.7µF
+Change component parameters: Designator = "C1"; Footprint = "CAPC1608X06L"; UniqueID = "\DWZZNVRA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "2nd source part number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2nd source Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Artikkelnr Noca"; Value = "20069060"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Artikkelnr Simpro"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint Doc"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "2009-11-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603-4µ7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "2009-05-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"

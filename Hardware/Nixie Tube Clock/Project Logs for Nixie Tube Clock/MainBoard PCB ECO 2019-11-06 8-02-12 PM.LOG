@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=DEC4 Pin=L5-1
+Removed Pin From Net: NetName=NetL5_2 Pin=L6-1
+Removed Member From Class: ClassName=MCU Member=L6
+Change Component Footprint: Designator=L5 Old Footprint=SMD 0603_A New Footprint=INDC1608X06L
+Change Component Comment : Designator=L5 Old Comment=15nH New Comment=10µH
+Change component parameters: Designator = "L5"; Footprint = "INDC1608X06L"; UniqueID = "\ULDSTCME"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "2nd source part number"; Value = "178-6105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2nd source Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Artikkelnr Noca"; Value = "33029314"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Artikkelnr Simpro"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "http://www.yuden.co.jp/ut/product/pdf/elb2_e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint Doc"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "2012-09-19"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LBMF1608T100K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "LBMF1608T100K 10µH 80mA 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "L0603-10µ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "2010-02-24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "587-1714-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10µH"; VariantName = "[No Variations]"
+Added Component: Designator=L4(INDC1608X06L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "2nd source part number"; Value = "178-6105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2nd source Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "33029314"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Artikkelnr Simpro"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.yuden.co.jp/ut/product/pdf/elb2_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2012-09-19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LBMF1608T100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "LBMF1608T100K 10µH 80mA 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "L0603-10µ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2010-02-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "587-1714-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15nH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DEC4 Pin=L4-1
+Added Pin To Net: NetName=NetL5_2 Pin=U5-47
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=L5-1
+Added Net: Name=NetL4_2
+Added Member To Class: ClassName=MCU Member=Component L4 15nH

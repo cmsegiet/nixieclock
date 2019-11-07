@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R15 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R16 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R28 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R12 Old Footprint=RESC1608X55X25NL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R13 Old Footprint=RESC1608X55X25NL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R14 Old Footprint=RESC1608X55X30ML15T15 New Footprint=RESC1608X55X30LL15T15
+Change Component Footprint: Designator=R11 Old Footprint=RESC1608X55X30NL15T15 New Footprint=RESC1608X55X30LL15T15
+Change Component Footprint: Designator=R17 Old Footprint=RESC1609X55X30ML10T20 New Footprint=RESC1609X55X30LL10T20

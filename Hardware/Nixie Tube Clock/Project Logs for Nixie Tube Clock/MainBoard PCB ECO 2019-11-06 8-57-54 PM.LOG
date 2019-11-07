@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetD2_2 Pin=SW1-1
+Removed Pin From Net: NetName=VIN Pin=SW1-2
+Added Pin To Net: NetName=VIN Pin=SW1-1
+Added Pin To Net: NetName=NetD2_2 Pin=SW1-2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IP- Pin=U12-3
+Removed Pin From Net: NetName=IP- Pin=U12-4
+Added Pin To Net: NetName=IP- Pin=U12-1
+Added Pin To Net: NetName=IP- Pin=U12-2
+Change Net Name : Old Net Name=IP- New Net Name=IP+
+Added Pin To Net: NetName=IP- Pin=J1-1
+Added Pin To Net: NetName=IP- Pin=U12-3
+Added Pin To Net: NetName=IP- Pin=U12-4
+Added Net: Name=IP-
