@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Projects\Nixie Tube Clock\Hardware\Nixie Tube Clock\MainBoard.PcbDoc
-Date     : 2019-11-09
-Time     : 9:08:15 PM
+Date     : 2019-11-10
+Time     : 12:05:16 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_L01_P060')),(All)
 Rule Violations :0
@@ -25,19 +25,16 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=8mil) (All)
-   Violation between Width Constraint: Track (118665.039mil,9036.181mil)(118665.039mil,10602.323mil) on Top Layer Actual Width = 314.961mil, Target Width = 50mil
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad J3-1(2095mil,1205mil) on Multi-Layer And Pad J3-1(2095mil,1205mil) on Multi-Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad J4-1(2095mil,2070mil) on Multi-Layer And Pad J4-1(2095mil,2070mil) on Multi-Layer Pad/Via Touching Holes
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
 Rule Violations :0
@@ -55,6 +52,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 3
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01

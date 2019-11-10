@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Projects\Nixie Tube Clock\Hardware\Nixie Tube Clock\MainBoard.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mainboard.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=mainboard-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

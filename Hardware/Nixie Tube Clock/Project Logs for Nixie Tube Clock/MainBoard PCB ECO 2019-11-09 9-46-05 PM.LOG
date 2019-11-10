@@ -1,0 +1,23 @@
+Change component parameters: Designator = "J3"; Footprint = "10pin Header TH"; UniqueID = "\YMWYKHHW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/732/302-sxxx-732946.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/732/302-sxxx-732946.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On-Shore Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "302-S101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.28000, 10=0.26300, 100=0.18380, 500=0.15750, 1000=0.13125, 5000=0.11250, 10000=0.10500 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "44685"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED1543-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MCU Member=Component J3 302-S101
+Added Member To Class: ClassName=MCU Member=Component J4 10pin dual row 2.54" Shrouded
