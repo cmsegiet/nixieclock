@@ -1,0 +1,6 @@
+Added Component: Designator=ANT1(PIFA)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=GND Pin=ANT1-2
+Added Pin To Net: NetName=GND Pin=ANT1-3
+Added Member To Class: ClassName=MCU Member=Component ANT1 Inverted F Antenna

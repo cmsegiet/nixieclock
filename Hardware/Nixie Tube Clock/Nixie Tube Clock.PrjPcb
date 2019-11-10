@@ -122,6 +122,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJZHXRFS
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Nixie Tube Clock\Design Rule Check - MainBoard.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Users\Public\Documents\Altium\AD18\Library\*.*
 IncludeSubFolders=1

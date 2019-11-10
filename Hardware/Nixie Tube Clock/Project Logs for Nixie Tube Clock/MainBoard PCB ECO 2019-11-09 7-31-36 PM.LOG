@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=L3 Old Footprint=0402 CHIP COMPONENT New Footprint=INDC1005X04L
+Change Component Comment : Designator=L3 Old Comment=L-07C3N9SV6T New Comment=3.9nH
+Change component parameters: Designator = "L3"; Footprint = "INDC1005X04L"; UniqueID = "\XPYBSGAA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "2nd source part number"; Value = "658-1328"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2nd source Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Artikkelnr Noca"; Value = "33029323"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Artikkelnr Simpro"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "http://www.yuden.co.jp/productdata/catalog/en/mlci04_e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint Doc"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "2012-09-19"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "HK100515NJ-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "High frequency chip inductor ±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "L0402-15n"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "2010-07-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "587-1521-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.9nH"; VariantName = "[No Variations]"
