@@ -61,4 +61,4 @@ After finishing the control board, I'll start working on the Nixie Tube board or
 
 Completed layout of the control board with via shielding along microstrip transmission line, and via stitching GND planes together:
 
-<img src="/Pictures/ControlBoardLayout.PNG" width="50%" height="50%">
+<img src="/Pictures/CompleteControlBoardRender.JPG" width="50%" height="50%">
