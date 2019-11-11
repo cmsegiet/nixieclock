@@ -1,0 +1,15 @@
+Added Component: Designator=MH1(Mounting)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH2(Mounting)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH3(Mounting)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH4(Mounting)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
+Added Room: Name=HVDC Power
+Added Room: Name=Nixie Tube Drivers
+Added Room: Name=UserInput
