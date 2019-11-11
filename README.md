@@ -56,3 +56,9 @@ No ground or power planes added yet, but looking good so far! Next up is adding 
 I was also thinking about how I could test the antenna S-parameters upon assembly, but this may not be possible due to lack of access to a network analyzer. Unfortunately, the cheap mini VNA's on Amazon and such do not go up to 2.4GHz. Regardless of this shortcoming, I did include a pi-network filter just in case this testing becomes possible.
 
 After finishing the control board, I'll start working on the Nixie Tube board or front panel of the clock. The tricky part with this portion will be finding an adequate source for IN-12A Nixie tube sockets, since the pin dimensions are not consistent enough for a direct IN-12A footprint.
+
+### 2019-11-10
+
+Completed layout of the control board with via shielding along microstrip transmission line, and via stitching GND planes together:
+
+<img src="/Pictures/ControlBoardLayout.PNG" width="50%" height="50%">
