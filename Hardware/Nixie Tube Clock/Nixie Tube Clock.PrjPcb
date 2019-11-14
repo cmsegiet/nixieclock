@@ -144,210 +144,122 @@ DocumentPath=Project Outputs for Nixie Tube Clock\Design Rule Check - MainBoard.
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Gerber Output\Gerber\MainBoard-macro.A1_LIB
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Gerber Output\Gerber\MainBoard-macro.A2_LIB
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Gerber Output\Gerber\MainBoard-macro.ABL_LIB
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Gerber Output\Gerber\MainBoard-macro.ABO_LIB
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Gerber Output\Gerber\MainBoard-macro.ABS_LIB
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Gerber Output\Gerber\MainBoard-macro.AM1_LIB
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Gerber Output\Gerber\MainBoard-macro.ATL_LIB
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Gerber Output\Gerber\MainBoard-macro.ATO_LIB
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Gerber Output\Gerber\MainBoard-macro.ATS_LIB
-DItemRevisionGUID=
-
-[GeneratedDocument11]
 DocumentPath=Gerber Output\NC Drill\MainBoard-RectHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Free Documents\NC Drill\MainBoard-RectHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Gerber Output\Gerber\MainBoard.A1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Gerber Output\Gerber\MainBoard.A2
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Gerber Output\Gerber\MainBoard.ABL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Gerber Output\Gerber\MainBoard.ABO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Gerber Output\Gerber\MainBoard.ABS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Gerber Output\Gerber\MainBoard.AM1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Gerber Output\Gerber\MainBoard.ATL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Gerber Output\Gerber\MainBoard.ATO
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Gerber Output\Gerber\MainBoard.ATS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument4]
 DocumentPath=Gerber Output\NC Drill\MainBoard.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Free Documents\NC Drill\MainBoard.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument6]
 DocumentPath=Gerber Output\Gerber\MainBoard.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=Gerber Output\Gerber\MainBoard.G1
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.G1
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Gerber Output\Gerber\MainBoard.G2
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.G2
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument8]
 DocumentPath=Gerber Output\Gerber\MainBoard.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument10]
 DocumentPath=Gerber Output\Gerber\MainBoard.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument13]
 DocumentPath=Gerber Output\Gerber\MainBoard.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument15]
 DocumentPath=Gerber Output\Gerber\MainBoard.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument17]
 DocumentPath=Gerber Output\Gerber\MainBoard.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument19]
 DocumentPath=Gerber Output\Gerber\MainBoard.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument22]
 DocumentPath=Gerber Output\Gerber\MainBoard.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument24]
 DocumentPath=Gerber Output\NC Drill\MainBoard.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Free Documents\NC Drill\MainBoard.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument26]
 DocumentPath=Gerber Output\Gerber\MainBoard.REP
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.REP
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument28]
 DocumentPath=Gerber Output\Gerber\MainBoard.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument30]
 DocumentPath=Gerber Output\NC Drill\MainBoard.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Free Documents\NC Drill\MainBoard.TXT
 DItemRevisionGUID=
 

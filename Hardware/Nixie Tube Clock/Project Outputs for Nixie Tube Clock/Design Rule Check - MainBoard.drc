@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Projects\Nixie Tube Clock\Hardware\Nixie Tube Clock\MainBoard.PcbDoc
-Date     : 2019-11-10
-Time     : 12:05:16 AM
+Date     : 2019-11-12
+Time     : 10:42:17 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_L01_P060')),(All)
 Rule Violations :0

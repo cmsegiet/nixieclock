@@ -1,0 +1,16 @@
+Added Component: Designator=TP1(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RXI Pin=TP1-1
+Added Pin To Net: NetName=TXO Pin=TP2-1
+Added Pin To Net: NetName=SDA Pin=TP3-1
+Added Pin To Net: NetName=SCL Pin=TP4-1
+Added Member To Class: ClassName=MCU Member=Component TP1 Testpoint
+Added Member To Class: ClassName=MCU Member=Component TP2 Testpoint
+Added Member To Class: ClassName=MCU Member=Component TP3 Testpoint
+Added Member To Class: ClassName=MCU Member=Component TP4 Testpoint

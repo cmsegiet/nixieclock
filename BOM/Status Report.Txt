@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:20:00 PM On 2019-11-11
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Nixie Tube Clock.PrjPcb]
+   Generated File[Bill of Materials-Nixie Tube Clock.xls]
+   Generated File[Bill of Materials-Nixie Tube Clock.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:20:01 PM On 2019-11-11
