@@ -1,0 +1,26 @@
+Added Component: Designator=TP1(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP6(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(Keystone 5015)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ1_10 Pin=TP1-1
+Added Pin To Net: NetName=NetJ1_9 Pin=TP2-1
+Added Pin To Net: NetName=HVDC Pin=TP3-1
+Added Pin To Net: NetName=NetQ2_3 Pin=TP4-1
+Added Pin To Net: NetName=NetU6_13 Pin=TP6-1
+Added Pin To Net: NetName=NetU6_12 Pin=TP7-1
+Change Net Name : Old Net Name=NetU6_12 New Net Name=NetTP7_1
+Change Net Name : Old Net Name=NetU6_13 New Net Name=NetTP6_1
+Added Pin To Net: NetName=NetTP5_1 Pin=TP5-1
+Added Pin To Net: NetName=NetTP5_1 Pin=U6-3
+Added Pin To Net: NetName=NetTP5_1 Pin=U11-2
+Added Net: Name=NetTP5_1

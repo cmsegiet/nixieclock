@@ -1,0 +1,32 @@
+Added Component: Designator=ENC1(PEC11L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built in Switch"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/29519/pec11l-29519359.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/29519/pec11l-29519359.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detent"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Encoder Type"; Value = "Mechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "19.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PEC11L-4115F-S0020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "80°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole,Panel,PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Quadrature,Incremental"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.34000, 10=2.05900, 25=1.84600, 50=1.77500, 100=1.70400, 250=1.63300, 500=1.34900, 1000=1.27800, 5000=1.06500 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pulses per Revolution"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2681"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PEC11L-4115F-S0020-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "11.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ENC1-1
+Added Pin To Net: NetName=NetENC1_2 Pin=ENC1-2
+Added Pin To Net: NetName=NetC3_2 Pin=ENC1-A
+Added Pin To Net: NetName=NetC4_2 Pin=ENC1-B
+Added Pin To Net: NetName=GND Pin=ENC1-C

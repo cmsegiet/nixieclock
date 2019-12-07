@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [NixieDriver.PcbDoc]
+   Generated File[NixieDriver-RoundHoles.TXT]
+   Generated File[NixieDriver-SlotHoles.TXT]
+   Generated File[NixieDriver-RectHoles.TXT]
+   Generated File[NixieDriver.LDP]
+   Generated File[NixieDriver.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 6:48:39 PM On 2019-11-25
